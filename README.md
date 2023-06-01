@@ -12,4 +12,6 @@
   &#x2B50 최봉준 &#x2B50<br>
   &#x2B50 황병준 &#x2B50<br>
 </div>
-<div style="margin: 20px 0; border: 2px solid black; border-radius: 5px;"></div>
+<div>
+  <p>📚사용된 기술스택📚</p>
+</div>
