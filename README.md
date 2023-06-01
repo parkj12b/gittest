@@ -6,7 +6,7 @@
   <p>🤝🤝🤝 팀원소개 🤝🤝🤝</p>
 </div>
 <div align=center>
-	&#x2B50 박민서 &#x2B50 : <a><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" /></a><br>
+	&#x2B50 박민서 &#x2B50 : <a><img src="https://img.shields.io/badge/-181717?style=flat&logo=GitHub&logoColor=white" /></a><br>
   &#x2B50 최학준 &#x2B50 : <br>
   &#x2B50 김유진 &#x2B50 : <br>
   &#x2B50 최봉준 &#x2B50 : <br>
