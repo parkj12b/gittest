@@ -49,7 +49,7 @@
 </div>
 <div align=center>
 <a href="http://138.2.127.137/">
-	<h2>🔗🔗🔗 프로젝트 라바링크 바로가기 🔗🔗🔗</h2>	
+	hello
 </a>
   
 </div>
