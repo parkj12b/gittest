@@ -3,7 +3,7 @@
 </div>
 <div align=center>
   <h3>건조음식물을 이용한 곤충사료 블루오션 플랫폼: 프로젝트 라바링크</h3>
-  <p>👩 팀원소개 👨</p>
+  <p>🤝🤝🤝 팀원소개 🤝🤝🤝</p>
 </div>
 <div align=center>
   &#x2B50 박민서 &#x2B50<br>
