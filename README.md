@@ -12,4 +12,4 @@
   &#x2B50 최봉준 &#x2B50<br>
   &#x2B50 황병준 &#x2B50<br>
 </div>
-<div style="margin: 20px 0; border: 2px solid grey; border-raiuds: 5px;"></div>
+<div style="margin: 20px 0; border: 2px solid grey; border-raiuds: 5px;">hello</div>
