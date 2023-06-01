@@ -6,7 +6,10 @@
   <p>🤝🤝🤝 팀원소개 🤝🤝🤝</p>
 </div>
 <div align=center>
-	&#x2B50 박민서 &#x2B50 : <a href="https://github.com/parkj12b" target="_blank"><img src="https://img.shields.io/badge/Github-181717?style=flat&logo=GitHub&logoColor=white" /></a><br>
+	&#x2B50 박민서 &#x2B50 : <a href="https://github.com/parkj12b" target="_blank"><img src="https://img.shields.io/badge/Github-181717?style=flat&logo=GitHub&logoColor=white" /></a>
+	<a href="https://blog.naver.com/ppms03">
+		<img src="https://img.shields.io/badge/Naver%20Blog-03C75A?style=flat&logo=Naver&logoColor=white" />
+	</a><br>
   &#x2B50 최학준 &#x2B50 : <a href="https://github.com/hagjoon" target="_blank"><img src="https://img.shields.io/badge/Github-181717?style=flat&logo=GitHub&logoColor=white" /></a><br>
   &#x2B50 김유진 &#x2B50 : <a href="https://github.com/kimmy427" target="_blank"><img src="https://img.shields.io/badge/Github-181717?style=flat&logo=GitHub&logoColor=white" /></a><br>
   &#x2B50 최봉준 &#x2B50 : <a href="https://github.com/bongnine" target="_blank"><img src="https://img.shields.io/badge/Github-181717?style=flat&logo=GitHub&logoColor=white" /></a><br>
