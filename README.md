@@ -7,10 +7,10 @@
 </div>
 <div align=center>
 	&#x2B50 박민서 &#x2B50 : <a href="https://github.com/parkj12b" target="_blank"><img src="https://img.shields.io/badge/Github-181717?style=flat&logo=GitHub&logoColor=white" /></a><br>
-  &#x2B50 최학준 &#x2B50 : <br>
-  &#x2B50 김유진 &#x2B50 : <br>
-  &#x2B50 최봉준 &#x2B50 : <br>
-  &#x2B50 황병준 &#x2B50 : <br>
+  &#x2B50 최학준 &#x2B50 : <a href="https://github.com/hagjoon" target="_blank"><img src="https://img.shields.io/badge/Github-181717?style=flat&logo=GitHub&logoColor=white" /></a><br>
+  &#x2B50 김유진 &#x2B50 : <a href="https://github.com/kimmy427" target="_blank"><img src="https://img.shields.io/badge/Github-181717?style=flat&logo=GitHub&logoColor=white" /></a><br>
+  &#x2B50 최봉준 &#x2B50 : <a href="https://github.com/bongnine" target="_blank"><img src="https://img.shields.io/badge/Github-181717?style=flat&logo=GitHub&logoColor=white" /></a><br>
+  &#x2B50 황병준 &#x2B50 : <a href="https://github.com/H-BBangJun" target="_blank"><img src="https://img.shields.io/badge/Github-181717?style=flat&logo=GitHub&logoColor=white" /></a><br>
 </div>
 <div align=center>
   <h3>📚사용된 기술스택📚</h3>
