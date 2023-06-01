@@ -11,8 +11,9 @@
 <a href="https://github.com/parkj12b" target="_blank"><img src="https://img.shields.io/badge/Github-181717?style=flat&logo=GitHub&logoColor=white" /></a>
 <a href="https://blog.naver.com/ppms03">
 	<img src="https://img.shields.io/badge/Naver%20Blog-03C75A?style=flat&logo=Naver&logoColor=white" />
-</a><br>
+</a>
 	</div>
+	<br>
 	<div>
 	<p>&#x2B50 최학준 &#x2B50</p><a href="https://github.com/hagjoon" target="_blank"><img src="https://img.shields.io/badge/Github-181717?style=flat&logo=GitHub&logoColor=white" /></a><br>
 	</div>
