@@ -5,7 +5,7 @@
   <h3>건조음식물을 이용한 곤충사료 블루오션 플랫폼: 프로젝트 라바링크</h3>
   <p>🤝🤝🤝 팀원소개 🤝🤝🤝</p>
 </div>
-<div align=center>
+<div align=center display=flex flex-direction=row>
 	<div>
 	<p>&#x2B50 박민서 &#x2B50</p>
 <a href="https://github.com/parkj12b" target="_blank"><img src="https://img.shields.io/badge/Github-181717?style=flat&logo=GitHub&logoColor=white" /></a>
