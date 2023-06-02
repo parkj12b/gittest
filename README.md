@@ -68,7 +68,7 @@
 <br><br>
 <div align=center>
 <a href="http://138.2.127.137/"> 🔗🔗🔗프로젝트 라바링크 바로가기🔗🔗🔗 </a><br><br>
-	<a href="https://github.com/parkj12b/ks46team02/blob/develop/46%EA%B8%B0_02%ED%8C%80_%ED%8C%80%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%AA%85_%EA%B0%9C%EB%B0%9C%EB%AC%B8%EC%84%9C.xlsx">📋📋📋개발문서 바로가기📋📋📋</a><br><br>
+	<a href="https://github.com/parkj12b/ks46team02/blob/develop/46%EA%B8%B0_02%ED%8C%80_%EA%B1%B4%EC%A1%B0%EB%90%9C%20%EC%9D%8C%EC%8B%9D%EB%AC%BC%EC%9D%84%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%EA%B3%A4%EC%B6%A9%EC%82%AC%EB%A3%8C%EC%8B%9C%EC%9E%A5%20%EB%B8%94%EB%A3%A8%EC%98%A4%EC%85%98%20%ED%94%8C%EB%9E%AB%ED%8F%BC.xlsx">📋📋📋개발문서 바로가기📋📋📋</a><br><br>
 	<a href="https://github.com/parkj12b/ks46team02/blob/develop/ksamat46_2%ED%8C%80_%20%ED%86%B5%ED%95%A9%EA%B5%AC%ED%98%84%20%EA%B9%80%EC%9C%A0%EC%A7%84.pdf">📄📄📄프로젝트 완료보고서 바로가기📄📄📄</a>
 </div>
 <h2>프로젝트 개요</h2>
