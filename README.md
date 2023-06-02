@@ -93,4 +93,21 @@
 
 <h3>권한별 기능</h3>
 <p>권한별 기능은 repository에 참고된 <a href="https://github.com/parkj12b/ks46team02/blob/develop/46%EA%B8%B0_02%ED%8C%80_%ED%8C%80%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%AA%85_%EA%B0%9C%EB%B0%9C%EB%AC%B8%EC%84%9C.xlsx">46기_02팀_팀프로젝트명_개발문서.xlsx</a> 문서를 참고하세요.<p>
-	
+
+<h3>ERD</h3>
+<img src="https://github.com/parkj12b/ks46team02/blob/develop/exerd_..jpg?raw=true">
+<p>토마토시스템사의 ExERD 를 이용해 설계한 프로젝트 ERD</p>
+
+<h2>사이트 화면</h2>
+<img src="https://github.com/parkj12b/ks46team02/blob/develop/sample1.png?raw=true">
+<p>프로젝트 웹사이트 메인화면</p>
+<br>
+<img src="https://github.com/parkj12b/ks46team02/blob/develop/sample2.png?raw=true">
+<p>동애등에 사육장 먹이 급여 데이터</p>
+<br>
+<img src="https://github.com/parkj12b/ks46team02/blob/develop/sample4.png?raw=true">
+<p>동애등에 사육장 멘토멘티 계약 진행 현황</p>
+<br>
+<img src="https://github.com/parkj12b/ks46team02/blob/develop/sample5.png?raw=true">
+<p>동애등에 사육장 멘토멘티 방문평가 google form과 google Appscript 를 이용한 트리거 전송</p>
+<br>
